@@ -1,3 +1,1 @@
 Nouveau fichier pour tester une branche
-Une ligne supplémentaire
-Et encore une !
